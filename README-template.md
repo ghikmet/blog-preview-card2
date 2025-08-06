@@ -5,16 +5,20 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [The challenge](./design/mobile-design.jpg)
+  - [The challenge](./design/desktop-design.jpg)
+  - [The challenge](./design/active-states.jpg)
+  - [Screenshot](./assets/images/Screenshot_Mobile.png)
+  - [Screenshot](./assets/images/Screenshot_Desktop.png)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
+  - [Built with](Semantic HTML5 markup, BEM Methodology, CSS custom properties, Flexbox, Mobile-first workflow)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+  - [Continued development](First of all, I want to master my CSS skills.)
   - [Useful resources](#useful-resources)
+- [Author](https://ghikmet.github.io/blog-preview-card/)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](https://www.frontendmentor.io/profile/ghikmet)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
