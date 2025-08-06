@@ -10,7 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [The challenge](./design/active-states.jpg)
   - [Screenshot](./assets/images/Screenshot_Mobile.png)
   - [Screenshot](./assets/images/Screenshot_Desktop.png)
-  - [Links](#links)
+  - [Links](https://ghikmet.github.io/blog-preview-card2/)
 - [My process](#my-process)
   - [Built with](Semantic HTML5 markup, BEM Methodology, CSS custom properties, Flexbox, Mobile-first workflow)
   - [What I learned](#what-i-learned)
